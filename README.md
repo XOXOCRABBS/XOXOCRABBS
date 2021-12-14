@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XOXOCRABBS
 - 👀 I’m interested in Food and Culinary
-- 🌱 I’m currently learning Android mobile based development and Game Development
+- 🌱 I’m currently learning Android Mobile App Development and Game Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
