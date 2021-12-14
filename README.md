@@ -2,7 +2,7 @@
 - 👀 I’m interested in Food and Culinary
 - 🌱 I’m currently learning Android Mobile App Development and Game Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me --> geraldycornelius19@gmail.com
 
 <!---
 XOXOCRABBS/XOXOCRABBS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
